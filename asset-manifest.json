@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "./static/css/main.bab0b925.chunk.css",
+    "main.js": "./static/js/main.7f779c53.chunk.js",
+    "main.js.map": "./static/js/main.7f779c53.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.b11dee30.js",
+    "runtime-main.js.map": "./static/js/runtime-main.b11dee30.js.map",
+    "static/js/2.a25c794a.chunk.js": "./static/js/2.a25c794a.chunk.js",
+    "static/js/2.a25c794a.chunk.js.map": "./static/js/2.a25c794a.chunk.js.map",
+    "static/js/3.37192441.chunk.js": "./static/js/3.37192441.chunk.js",
+    "static/js/3.37192441.chunk.js.map": "./static/js/3.37192441.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/main.bab0b925.chunk.css.map": "./static/css/main.bab0b925.chunk.css.map",
+    "static/js/2.a25c794a.chunk.js.LICENSE.txt": "./static/js/2.a25c794a.chunk.js.LICENSE.txt",
+    "static/media/Amanita12.a8e7114f.jpg": "./static/media/Amanita12.a8e7114f.jpg",
+    "static/media/Amanita13.dc8fb3a8.jpg": "./static/media/Amanita13.dc8fb3a8.jpg",
+    "static/media/Amanita14.942322db.jpg": "./static/media/Amanita14.942322db.jpg",
+    "static/media/Amanita17.467fa191.jpg": "./static/media/Amanita17.467fa191.jpg",
+    "static/media/Amanita39.3ee8081f.jpg": "./static/media/Amanita39.3ee8081f.jpg",
+    "static/media/Penny Bun13.4e690061.jpg": "./static/media/Penny Bun13.4e690061.jpg",
+    "static/media/Penny Bun18.76f87fe6.jpg": "./static/media/Penny Bun18.76f87fe6.jpg",
+    "static/media/Penny Bun4.3d06786b.jpg": "./static/media/Penny Bun4.3d06786b.jpg",
+    "static/media/Penny Bun6.e9afa4ae.jpg": "./static/media/Penny Bun6.e9afa4ae.jpg",
+    "static/media/Penny Bun8.55d70924.jpg": "./static/media/Penny Bun8.55d70924.jpg",
+    "static/media/amanita1.96e322bd.png": "./static/media/amanita1.96e322bd.png",
+    "static/media/amanita2.d3d68851.png": "./static/media/amanita2.d3d68851.png",
+    "static/media/amanita3.167a9acb.png": "./static/media/amanita3.167a9acb.png",
+    "static/media/amanita4.c0f30b62.png": "./static/media/amanita4.c0f30b62.png",
+    "static/media/amanita5.b89d898a.png": "./static/media/amanita5.b89d898a.png",
+    "static/media/pennybun1.aaae2cf6.png": "./static/media/pennybun1.aaae2cf6.png",
+    "static/media/pennybun2.a3a678c0.png": "./static/media/pennybun2.a3a678c0.png",
+    "static/media/pennybun3.0f840406.png": "./static/media/pennybun3.0f840406.png",
+    "static/media/pennybun4.d4eb79fe.png": "./static/media/pennybun4.d4eb79fe.png",
+    "static/media/pennybun5.92cbaa79.png": "./static/media/pennybun5.92cbaa79.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b11dee30.js",
+    "static/js/2.a25c794a.chunk.js",
+    "static/css/main.bab0b925.chunk.css",
+    "static/js/main.7f779c53.chunk.js"
+  ]
+}
